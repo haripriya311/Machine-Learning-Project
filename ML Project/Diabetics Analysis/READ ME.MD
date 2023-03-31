@@ -1,4 +1,4 @@
-##Diabetics prediction
+Diabetics prediction
 
 About Dataset
 
