@@ -1,4 +1,4 @@
-#Engineering Placements Prediction
+Engineering Placements Prediction
 Predict Final Year Engineering College Placements
 
 About Dataset
